@@ -9,6 +9,9 @@
 3. 配套mall-app Android iOSAPP  代码: https://github.com/TorettoLong/mall-app
 
 ```
+
+<img src="https://image.showm.xin//test/home/home.png">
+
 ## Start
 
  - 克隆或者下载这个仓库
